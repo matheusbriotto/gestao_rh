@@ -15,7 +15,7 @@ psycopg2==2.8.4
 pycryptodomex==3.9.7
 PyJWT==1.7.1
 pylint==2.4.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2019.3
 reportlab==3.5.42
 requests==2.23.0
