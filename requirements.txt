@@ -13,7 +13,7 @@ mccabe==0.6.1
 Pillow==7.0.0
 psycopg2==2.8.4
 pycryptodomex==3.9.7
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.4
 PyPDF2==1.26.0
 pytz==2019.3
